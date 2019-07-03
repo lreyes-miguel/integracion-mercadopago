@@ -1,0 +1,13 @@
+{
+    "name": "lreyes/integracion-mercadopago",
+    "type": "project",
+    "require": {
+        "mercadopago/dx-php": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "Luis Reyes",
+            "email": "lreyes.miguel@gmail.com"
+        }
+    ]
+}
